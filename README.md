@@ -62,5 +62,5 @@ We plan to continuously iterate on our solution based on user feedback and evolv
 ## Thank You
 - Rohan Sharma
 - Priyansh Saxena
-- Tanisk Bhatia
+- Tanish Bhatia
 - Reyansh Gehlot
