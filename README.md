@@ -41,7 +41,7 @@ Utilizing Azure's cloud infrastructure, our solution scales dynamically with the
 
 ### Flow Diagram
 Here's a flowchart illustrating the integration and flow of operations within our solution:
-![Flowchart](link-to-your-flowchart-image)
+![Flowchart](BOBHack_Flow.png)
 
 ## Security Considerations
 Our approach incorporates multiple layers of security:
